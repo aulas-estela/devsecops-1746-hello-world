@@ -26,7 +26,7 @@ git clone git@github.com:SEU_USUARIO/devsecops-1746-hello-world.git
 
 ```bash
 # Opção via HTTPS:
-git clone https://github.com/SEU_USUARIO/devsecops-1746-hello-world.git
+git clone https://github.com/SEU_USUARIO/devsecops-1746-hello-world
 ```
 
 4. Acesse a pasta do projeto clonado:
