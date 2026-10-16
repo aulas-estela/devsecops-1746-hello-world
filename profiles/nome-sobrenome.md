@@ -1,4 +1,4 @@
-# Profile: <Seu Nome Completo>
+# Profile: Nome Sobrenome
 
 > **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
 > **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
